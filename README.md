@@ -1,2 +1,2 @@
-This respository has the all the python applications I had worked.
-I have used various concepts while developing these programs like variables, functions, loops, conditional statements and event handlers
+This respository has all the python applications I have developed.
+I have used various concepts while writting these programs like variables, functions, loops, conditional statements, event handlers and sorting.
